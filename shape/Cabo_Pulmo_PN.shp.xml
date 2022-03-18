@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Comisión Nacional de Áreas Naturales Protegidas 2014.</origin>
+				<pubdate>09/01/2014</pubdate>
+				<pubtime>Unknown</pubtime>
+				<title>Áreas Naturales Protegidas Federales de México.</title>
+				<edition>2014</edition>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<serinfo>
+					<sername>Actualización constante</sername>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Morelia, Michoacán de Ocampo. México</pubplace>
+					<publish>Comisión Nacional de Áreas Naturales Protegidas</publish>
+				</pubinfo>
+				<othercit>La información contenida hasta la fecha es
+responsabilidad de la CONANP,  la consulta y uso de la misma es responsabilidad del usuario.</othercit>
+				<lworkcit>
+					<citeinfo>
+						<title>Áreas Naturales Protegidas Federales de México</title>
+						<edition>2014</edition>
+						<geoform>map</geoform>
+						<serinfo>
+							<sername>2</sername>
+							<issue>Primera</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Morelia, Michoacán de Ocampo. México</pubplace>
+							<publish>CONANP</publish>
+						</pubinfo>
+						<othercit>La información contenida hasta la fecha es
+responsabilidad de la CONANP,  la consulta y uso de la misma es responsabilidad del usuario.</othercit>
+						<onlink>http://conanp.gob.mx/sig/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">176ANP_Geo_itrf92_version_diciembre_2014</ftname><onlink Sync="TRUE">\\ESTEBAN\E$\LILIAN DICIEMBRE\176ANP_Geo_itrf92_version_diciembre_2014.shp</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>Datos espaciales de las Áreas Naturales Protegidas Federales de la República Mexicana construidos en apego a los decretos de creación publicados en el Diario Oficial de la Federación. Manejo de datos espaciales con herramientas de los sistemas de información geográfica de la Comisión Nacional de las Áreas Naturales Protegidas.</abstract>
+			<purpose>Proporcionar datos espacialdes de las Áreas Naturales Protegidas Federales de la República Mexicana.</purpose>
+			<supplinf>La información contenida no tiene validez oficial .</supplinf>
+			<langdata Sync="TRUE">es</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>unknown</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>Continually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-118.634376</westbc>
+				<eastbc Sync="TRUE">-86.652318</eastbc>
+				<northbc Sync="TRUE">32.368832</northbc>
+				<southbc Sync="TRUE">14.790474</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-118.634376</leftbc><rightbc Sync="TRUE">-86.652318</rightbc><bottombc Sync="TRUE">14.790474</bottombc><topbc Sync="TRUE">32.368832</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Áreas Naturales Protegidas</themekey>
+				<themekey>Decreto</themekey>
+				<themekey>Categoría de manejo</themekey>
+				<themekey>Categoría de decreto</themekey>
+				<themekey>Reserva de la Biosfera</themekey>
+				<themekey>Parque Nacional</themekey>
+				<themekey>Monumento Natural</themekey>
+				<themekey>Área de Protección de los Recursos Naturales</themekey>
+				<themekey>Área de Protección de Flora y Fauna</themekey>
+				<themekey>Santuarios</themekey>
+			</theme>
+			<place>
+				<placekt>Áreas Naturales Protegidas</placekt>
+				<placekey>Alto Golfo de California y Delta del Río Colorado</placekey>
+				<placekey>Archipiélago de  Revillagigedo</placekey>
+				<placekey>Arrecife Alacranes</placekey>
+				<placekey>Arrecife de Puerto Morelos</placekey>
+				<placekey>Arrecifes de Cozumel</placekey>
+				<placekey>Arrecifes de Sian Ka´an</placekey>
+				<placekey>Arrecifes de Xcalak</placekey>
+				<placekey>Bahía de Loreto</placekey>
+				<placekey>Banco Chinchorro</placekey>
+				<placekey>Barranca de Metztitlán</placekey>
+				<placekey>Barranca del Cupatitzio</placekey>
+				<placekey>Benito Juárez</placekey>
+				<placekey>Bonampak</placekey>
+				<placekey>Bosencheve</placekey>
+				<placekey>Cabo Pulmo</placekey>
+				<placekey>Cabo San Lucas</placekey>
+				<placekey>Calakmul</placekey>
+				<placekey>Cañón de Santa Elena</placekey>
+				<placekey>Cañón del Río Blanco</placekey>
+				<placekey>Cañón del Sumidero</placekey>
+				<placekey>Cascada de Bassaseachic</placekey>
+				<placekey>Cascadas de Agua Azul</placekey>
+				<placekey>Cerro de Garnica</placekey>
+				<placekey>Cerro de la Estrella</placekey>
+				<placekey>Cerro de la Silla</placekey>
+				<placekey>Cerro de las Campanas</placekey>
+				<placekey>Chamela-Cuixmala</placekey>
+				<placekey>Chan-kin</placekey>
+				<placekey>Cofre de Perote</placekey>
+				<placekey>Constitución de 1857</placekey>
+				<placekey>Corredor Biológico Chichinautzin</placekey>
+				<placekey>Costa Occidental de Isla Mujeres, Punta Cancún y Punta Nizuc</placekey>
+				<placekey>Cuatrociénegas</placekey>
+				<placekey>Zona Protectora Forestal Vedada Cuenca Hidrográfica del Río Necaxa</placekey>
+				<placekey>Cumbres de Majalca</placekey>
+				<placekey>Cumbres de Monterrey</placekey>
+				<placekey>Cumbres del Ajusco</placekey>
+				<placekey>Desierto de los Leones</placekey>
+				<placekey>Desierto del Carmen o de Nixongo</placekey>
+				<placekey>Dzibilchantún</placekey>
+				<placekey>El Chico</placekey>
+				<placekey>El Cimatario</placekey>
+				<placekey>El Jabalí</placekey>
+				<placekey>El Pinacate y Gran Desierto de Altar</placekey>
+				<placekey>El Potosí</placekey>
+				<placekey>El Sabinal</placekey>
+				<placekey>El Tepeyac</placekey>
+				<placekey>El Tepozteco</placekey>
+				<placekey>El Triunfo</placekey>
+				<placekey>El Veladero</placekey>
+				<placekey>El Vizcaíno</placekey>
+				<placekey>Fuentes Brotantes de Tlalpan</placekey>
+				<placekey>General Juan Álvarez</placekey>
+				<placekey>Gogorrón</placekey>
+				<placekey>Grutas de Cacahuamilpa</placekey>
+				<placekey>El Histórico de Coyoacán</placekey>
+				<placekey>Huatulco</placekey>
+				<placekey>Insurgente Miguel Hidalgo y Costilla</placekey>
+				<placekey>Insurgente José María Morelos</placekey>
+				<placekey>Isla Contoy</placekey>
+				<placekey>Isla Isabel</placekey>
+				<placekey>Isla San Pedro Mártir</placekey>
+				<placekey>Islas del Golfo de California</placekey>
+				<placekey>Islas La Pajarera, Cocinas, Mamut, Colorada, San Pedro, San Agustín, San Andrés y Negrita, y los islotes Los Anegados, Novillas, Mosca y Submarino (Islas de la Bahía de Chamela)</placekey>
+				<placekey>Islas Marías</placekey>
+				<placekey>Iztaccíhuatl-Popocatépetl</placekey>
+				<placekey>La Encrucijada</placekey>
+				<placekey>La Michilía</placekey>
+				<placekey>La Primavera</placekey>
+				<placekey>La Sepultura</placekey>
+				<placekey>Lacan-tún</placekey>
+				<placekey>Lago de Camécuaro</placekey>
+				<placekey>Laguna de Términos</placekey>
+				<placekey>Lagunas de Chacahua</placekey>
+				<placekey>Lagunas de Montebello</placekey>
+				<placekey>Lagunas de Zempoala</placekey>
+				<placekey>Lomas de Padierna</placekey>
+				<placekey>Los Mármoles</placekey>
+				<placekey>Los Novillos</placekey>
+				<placekey>Los Petenes</placekey>
+				<placekey>Los Remedios</placekey>
+				<placekey>Los Tuxtlas</placekey>
+				<placekey>Maderas del Carmen</placekey>
+				<placekey>Malinche o Matlalcuéyatl</placekey>
+				<placekey>Mapimí</placekey>
+				<placekey>Mariposa Monarca</placekey>
+				<placekey>Meseta de Cacaxtla</placekey>
+				<placekey>Metzabok</placekey>
+				<placekey>Molino de Flores Netzahualcóyotl</placekey>
+				<placekey>Montes Azules</placekey>
+				<placekey>Nahá</placekey>
+				<placekey>Nevado de Toluca</placekey>
+				<placekey>Otoch Ma´ax Yetel Kooh</placekey>
+				<placekey>Palenque</placekey>
+				<placekey>Pantanos de Centla</placekey>
+				<placekey>Pico de Orizaba</placekey>
+				<placekey>Pico de Tancítaro</placekey>
+				<placekey>Playa adyacente a la localidad denominada Río Lagartos</placekey>
+				<placekey>Playa Ceuta</placekey>
+				<placekey>Playa Cuitzmala</placekey>
+				<placekey>Playa de Escobilla</placekey>
+				<placekey>Playa de la Bahía de Chacahua</placekey>
+				<placekey>Playa de la Isla Contoy</placekey>
+				<placekey>Playa de Maruata y Colola</placekey>
+				<placekey>Playa de Mismaloya</placekey>
+				<placekey>Playa de Puerto Arista</placekey>
+				<placekey>Playa de Rancho Nuevo</placekey>
+				<placekey>Playa de Tierra Colorada</placekey>
+				<placekey>Playa el Tecuán</placekey>
+				<placekey>Playa El Verde Camacho</placekey>
+				<placekey>Playa Mexiquillo</placekey>
+				<placekey>Playa Piedra de Tlacoyunque</placekey>
+				<placekey>Playa Teopa</placekey>
+				<placekey>Rayón</placekey>
+				<placekey>Ría Celestún</placekey>
+				<placekey>Ría Lagartos</placekey>
+				<placekey>Sacromonte</placekey>
+				<placekey>Selva El Ocote</placekey>
+				<placekey>Sian Ka´an</placekey>
+				<placekey>Sierra de Álamos Río Cuchujaqui</placekey>
+				<placekey>Sierra de Álvarez</placekey>
+				<placekey>Sierra de Huautla</placekey>
+				<placekey>Sierra de Manantlán</placekey>
+				<placekey>Sierra de Órganos</placekey>
+				<placekey>Sierra de Quila</placekey>
+				<placekey>Sierra de San Pedro Mártir</placekey>
+				<placekey>Sierra del Abra Tanchipa</placekey>
+				<placekey>Sierra Gorda</placekey>
+				<placekey>Sierra La Laguna</placekey>
+				<placekey>Sierra La Mojonera</placekey>
+				<placekey>Sistema Arrecifal Veracruzano</placekey>
+				<placekey>Tehuacán-Cuicatlán</placekey>
+				<placekey>Tula</placekey>
+				<placekey>Tulum</placekey>
+				<placekey>Tutuaca</placekey>
+				<placekey>Uaymil</placekey>
+				<placekey>Valle de los Cirios</placekey>
+				<placekey>Volcán Nevado de Colima</placekey>
+				<placekey>Xicoténcatl</placekey>
+				<placekey>Yagul</placekey>
+				<placekey>Yaxchilán</placekey>
+				<placekey>Yum Balam</placekey>
+				<placekey>Campo Verde</placekey>
+				<placekey>Ciénegas del Lerma</placekey>
+				<placekey>Complejo Lagunar Ojo de Libre</placekey>
+				<placekey>Las Huertas</placekey>
+				<placekey>Papigochic</placekey>
+				<placekey>Volcán Tacana</placekey>
+				<placekey>Isla Guadalupe</placekey>
+				<placekey>Laguna Madre y Delta del Río Bravo</placekey>
+				<placekey>ZPF, los terrenos constitutivos de las Cuencas de los Ríos Valle de Bravo, Mascaltepec, Tilostoc y Temascaltepec</placekey>
+				<placekey>Bala'an Ka'ax</placekey>
+				<placekey>Sierra Gorda de Guanajuato</placekey>
+				<placekey>Zona Marina del  Archipiélago de Espíritu Santo</placekey>
+				<placekey>Bahía de los Ángeles, Canal de Ballenas y Salsipuedes</placekey>
+				<placekey>Zicuiran-Infiernillo</placekey>
+				<placekey>Manglares de Nichupte</placekey>
+				<placekey>Archipiélago de San Lorenzo</placekey>
+				<placekey>Islas Marietas</placekey>
+				<placekey>ZPF en los Terrenos que se encuentran en los municipios de La Concordia, Angel Albino Corzo, Villa Flores y Jiquipilas</placekey>
+				<placekey>Boquerón de Tonalá</placekey>
+				<placekey>Cañón del Usumacinta</placekey>
+				<placekey>Médanos de Samalayuca</placekey>
+				<placekey>Ocampo</placekey>
+				<placekey>Sistema Arrecifal Lobos Tuxpan</placekey>
+				<placekey>Tiburón Ballena</placekey>
+				<placekey>Ventilas Hidrotermales de la Cuenca de Guaymas y de la Dorsal del Pacífico Oriental</placekey>
+				<placekey>Río Bravo del Norte</placekey>
+				<placekey>Janos</placekey>
+				<placekey>C.A.D.N.R 026 Bajo Río San Juan</placekey>
+				<placekey>Marismas Nacionales</placekey>
+				<placekey>La Porción Norte y la Franja Costera Oriental, Terrestres y Marinas de la Isla de Cozumel</placekey><placekey>Balandra</placekey><placekey>C.A.D.N.R 004 Don Martín</placekey><placekey>C.A.D.N.R 001 Pabellón</placekey><placekey>C.A.D.N.R 043 Estado de Nayarit</placekey></place>
+			<stratum>
+			</stratum>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>1917</tempkey>
+				<tempkey>1923</tempkey>
+				<tempkey>1935</tempkey>
+				<tempkey>1936</tempkey>
+				<tempkey>1937</tempkey>
+				<tempkey>1938</tempkey>
+				<tempkey>1939</tempkey>
+				<tempkey>1940</tempkey>
+				<tempkey>1941</tempkey>
+				<tempkey>1942</tempkey>
+				<tempkey>1947</tempkey>
+				<tempkey>1952</tempkey>
+				<tempkey>1959</tempkey>
+				<tempkey>1962</tempkey>
+				<tempkey>1964</tempkey>
+				<tempkey>1972</tempkey>
+				<tempkey>1973</tempkey>
+				<tempkey>1978</tempkey>
+				<tempkey>1979</tempkey>
+				<tempkey>1980</tempkey>
+				<tempkey>1981</tempkey>
+				<tempkey>1982</tempkey>
+				<tempkey>1986</tempkey>
+				<tempkey>1987</tempkey>
+				<tempkey>1988</tempkey>
+				<tempkey>1990</tempkey>
+				<tempkey>1991</tempkey>
+				<tempkey>1992</tempkey>
+				<tempkey>1993</tempkey>
+				<tempkey>1994</tempkey>
+				<tempkey>1995</tempkey>
+				<tempkey>1996</tempkey>
+				<tempkey>1997</tempkey>
+				<tempkey>1998</tempkey>
+				<tempkey>1999</tempkey>
+				<tempkey>2000</tempkey>
+				<tempkey>2002</tempkey>
+				<tempkey>2003</tempkey>
+				<tempkey>2004</tempkey>
+				<tempkey>2005</tempkey>
+				<tempkey>2007</tempkey>
+				<tempkey>2008</tempkey>
+				<tempkey>2009</tempkey>
+				<tempkey>2010</tempkey>
+				<tempkey>2012</tempkey><tempkey>2013</tempkey></temporal>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>No existe restricción alguna para el uso de la información, sin embargo su uso es responsabilidad de quien la utilice y
+deberá citarse la fuente. </useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>M. en Geog. Ignacio Paniagua Ruiz</cntper>
+					<cntorg>SEMARNAT-CONANP</cntorg>
+				</cntperp>
+				<cntpos>Subdirección encargada de la Coordinación de Geomática</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Morelia</city>
+					<state>Michoacán de Ocampo</state>
+					<postal>58260</postal>
+					<country>México</country>
+					<address>Av. Acueducto No. 980, Col. Chapultepec Norte</address></cntaddr>
+				<cntemail>ipaniagua@conanp.gob.mx</cntemail>
+				<hours>9:00 a 18:00</hours>
+				<cntvoice>55 544970000 ext.18506</cntvoice></cntinfo>
+		</ptcontac>
+		<datacred>Comisión Nacional de Áreas Naturales Protegidas, Dirección de Evaluación y Seguimiento, Subdirección Encargada de la Coordinación de Geomática. </datacred>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+			<secsys>No</secsys><sechandl>No existe restricción alguna para el uso de la información, sin embargo su uso es responsabilidad de quien la utilice y deberá citarse la fuente.</sechandl></secinfo>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7600) ; ESRI ArcCatalog 9.3.0.1770</native>
+		<crossref>
+			<citeinfo>
+				<serinfo>
+				</serinfo>
+				<pubinfo>
+				</pubinfo>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform><browse><browsen>Cobertura de  las Áreas Naturales Protegidas Federales de México.</browsen><browsed>Mapa</browsed><browset>JPEG</browset></browse></idinfo>
+	<dataqual>
+		<attracc>
+			<qattracc>
+			</qattracc>
+		</attracc>
+		<logic>Todas las ANP´s presentadas en esta cobertura cuentan con  un decreto presidencial.</logic>
+		<complete>Es importante señalar que para el establecimiento de una Área Natural Protegida Federal deben realizarse estudios de campo y la delimitación  de sus vértices se realiza con la ayuda de geoposicionadores, en gabinete es elaborada la descripción limítrofe analítica-topográfica que posteriormente será  expresada mediante un decreto presidencial que las delimita.
+La información aqui presentada se elaboró tomando como base información del INEGI y que ha desarrollado la
+CONANP empleando el SIG.</complete>
+		<posacc>
+			<horizpa>
+			</horizpa>
+			<vertacc>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Instituto Nacional de Estadistica, Geografia e Informatica</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>Cartas Topograficas</title>
+						<geoform>map</geoform>
+						<serinfo>
+							<sername>Escalas 1:50,000 y 1:250,000</sername>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Aguascalientes, Ags</pubplace>
+							<publish>INEGI</publish>
+						</pubinfo>
+						<lworkcit>
+							<citeinfo>
+								<serinfo>
+								</serinfo>
+								<pubinfo>
+								</pubinfo>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srcscale>50,000; 250,000</srcscale>
+				<typesrc>CD-ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>19950000</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>INEGI</srccitea>
+				<srccontr>Topografía
+Toponimias</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Los límites de las Áreas Naturales Protegidas son construidos en apego a lo descrito en los decretos de creación publicados en el Diario Oficial de la Federación, tomando como insumos planos oficiales, cuadros de construcción e incluyéndolos a los sistemas de información geográfica institucional a partir del año 2000. 
+Los límites de las áreas Naturales Protegidas que son descritos por rasgos toponímicos, se construyen y ajustan de acuerdo a datos espaciales más precisos a los cuales esta Comisión Nacional tiene acceso.
+Se integran dos nuevas Áreas Naturales Protegidas a partir del 22 de septiembre de 2008, publicado en el Diario Oficial de la Federación, APFyF Boquerón de Tonalá y el APFyF Cañon del Usumacinta.</procdesc>
+				<procdate>Septiembre, 2008.</procdate></procstep>
+			<procstep>
+				<procdesc>Se ajustó el poligono del Parque Nacional Malinche o Matlalcueyatl y del Parque Nacional Los Remedios.</procdesc>
+				<procdate>Marzo, 2010.</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>-Se adicionó el polígono del ANP "Marismas Nacionales", decretada el 12 de Mayo del 2010.
+-Se realizó corrección topologica en sobrelape de polígonos.
+-Se añadió el campo ID_ANP, que incluye un número como identificador asignado por ANP, tomando como número consecutivo la fecha del último decreto.</procdesc>
+				<procdate>Mayo, 2010.</procdate>
+			</procstep>
+			<procstep><procdesc>- Se ajustó el polígono del Parque Nacional Cañón del Sumidero, según decreto del 06 de febrero de 1981.
+- Ajuste al plano oficial del Parque Nacional Iztaccihuatl-Popocatepetl, conforme al criterio conformado mediante el oficio número 112.-00004553 del 11 de octubre del 2010, signiado por el Lic. Wilehaldo David Cruz Bressant, titular de la Unidad Coordinadora de Asuntos Jurídicos de la SEMARNAT, quedando una superficie de 39,819.086 hectáreas.
+- Ajuste del Parque Nacional Dzibilchantun, según el decreto actualizado en campo, coordenadas reales.
+- Ajuste de límites del Parque Nacional Costa Occidental de Islas Mujeres, Punta Cancún y Punta Nizuc, de acuerdo al levantamiento en campo de la línea de costa con GPS de alta precisión.</procdesc><procdate>Noviembre, 2010.</procdate></procstep><procstep><procdesc>Se ajusta el poligono del APFyF Tutuaca, al límite político de 1949 del Estado de Chihuahua.</procdesc><procdate>Marzo, 2011.</procdate></procstep><procstep><procdesc>Se ajustaron los poligonos de las siguientes Áreas Naturales Protegidas, conforme a insumos de mayor precisión: Valle de los Cirios, Cofre de Perote, El Potosí, El Sabinal, Sacramonte, Complejo Lagunar Ojo de Liebre, Gogorrón, Bahías de Huatulco, General Juan Alvarez, Islas de la Bahía de Chamela, Manglares de Nichupté, Las Huertas, Tula, Xioctencalt, La Primavera, Cascada de Agua Azul, Nahá, Bahía de los Ángeles canales de ballenas y Salsipuedes.</procdesc><procdate>Marzo, 2012.</procdate></procstep><procstep><procdesc>Se adiciona el polígono del ANP Porción Norte y la Franja Costera Oriental, Terrestres y Marinas de la Isla de Cozumel, decretada según DOF del 25 septiembre 2012.</procdesc><procdate>Septiembre, 2012.</procdate></procstep><procstep><procdesc>Se ajusta el polígono del ANP Ojo de Liebre, se toman como base las imágenes de satélite SPOT de 2.5 metros de resolución espacial de fecha 15 de diciembre y 26 de diciembre de 2009, y en Valle de los Cirios se hacen los cambios pertinentes.</procdesc><procdate>Octubre, 2012.</procdate></procstep><procstep><procdesc>Se ajusta el polígono de Cumbres de Majalca, debido a la realización del levantamiento topográfico del 24-28 de septiembre del 2012, así mismo la Dirección del ANP, cuenta con información de tenencia de la tierra del PROCEDE y del RAN, con la cual se baso para ubicar los vertices de la poligonal.</procdesc><procdate>Octubre, 2012.</procdate></procstep><procstep><procdesc>Se sustituye el polígono del ANP Lacan-Tún por el poligono de rumbos y distancias.</procdesc><procdate>Octubre, 2012.</procdate></procstep><procstep><procdesc>El poligono de las Islas de San Lorenzo del ANP Islas del Golfo, cambian los límites, usando imagenes de satélite y levantamientos en campo del 16 de nov del 2002.</procdesc><procdate>Octubre, 2012.</procdate></procstep><procstep><procdesc>Se adiciona el poligono de la nueva AFFyF Balandra, según decreto del DOF del día 30 de noviembre del 2012.</procdesc><procdate>Enero, 2013.</procdate></procstep><procstep><procdesc>Se ajusta el poligono del Parque Nacional Dzibilchantun, según lo descrito en el plano oficial de mayo 2012.</procdesc><procdate>Enero, 2013.</procdate></procstep><procstep><procdesc>Se ajusta el poligono del Parque Nacional Sistema Arrecifal Veracruzano, según lo descrito en el DOF del día 29 de Noviembre del 2013.</procdesc><procdate>Febrero, 2013.</procdate></procstep><procstep><procdesc>Se incluye el polígono del ANP Nevado de Toluca, de acuerdo al oficio F00/DGCD/126/2013, de fecha 26 de abril de 2013 y el oficio F00.DGCD.-139/2013, de fecha 07 de mayo de 2013, donde se envía la propuesta final del polígono general y los metadatos, publicándose en el DOF la Reforma del día 01 de octubre de 2013, así como la modificación en la base de datos del Parque Nacional Nevado de Toluca a Área de Protección de Flora y Fauna, según lo descrito en esta Reforma.</procdesc><procdate>Octubre, 2013.</procdate><proctime Sync="TRUE">11305300</proctime></procstep><procstep><procdesc>Se ajusta el poligono de la Reserva de la Biosfera Sierra Gorda, conforme al decreto del DOF del día 19 de Mayo de 1997, de auerdo a la descripción toponimica de los limites la cual se ajusta al Marco Geoestadistico Municipal del año 1995 y al Conjunto de datos vectoriales de la carta topografica-Red Hidrólogica de INEGI escala 1:50,000</procdesc><procdate>Enero, 2014</procdate></procstep><procstep><procdesc>Se construyó el polígono del APRN Zona Protectora Forestal los terrenos constitutivos de las cuencas de los ríos Valle de Bravo, Malacatepec, Tilostoc y Temascaltepec, de acuerdo a los siguientes insumos:
+
+-Información espacial escala 1:50,000 cartas INEGI 
+-E14-A36 Villa de Allende; E14-A37 San Miguel Zinacantepec; 
+-E14-A46 Valle de Bravo y E14-A47 Volcán Nevado de Toluca.
+-INEGI 2010. Red Hidrográfica escala 1:50,000 Edición 2.0. Subcuencas Hidrográficas RH18Gg R. Tilostoc y RH18Gf R. Temascaltepec /Cuenca Cutzamala/R.H. Balsas
+-Límite Oficial de la RB Mariposa Monarca (DOF 2000) 
+-Límite Oficial PN Bosencheve (DOF 1940)
+-Límite Oficial del APFF Nevado de Toluca (DOF 1936 y 2013)
+-INEGI 2013. Marco Geoestadístico Versión 6.0
+-Modelo Digital de Elevación de 15 metros del INEGI
+
+La Subdirección encargada de la Coordinación de Geomática identificó los límites del área en apego a lo descrito en el Decreto de creación (DOF 1941) y al Acuerdo Secretarial (DOF 2005). La determinación de los límites y el cálculo de superficie se hizo con el análisis espacial de los insumos utilizando herramientas de los sistemas de información geográfica.
+
+El límite oficial del Área de Protección de Recursos Naturales "Zona Protectora Forestal los terrenos constitutivos de las cuencas de los ríos Valle de Bravo, Malacatepec, Tilostoc y Temascaltepec", fue validado por la Dirección del Área, la Dirección Regional Centro y Eje Neovolcánico, y la Dirección de Asuntos Jurídicos de la Comisión Nacional de Áreas Naturales Protegidas.</procdesc><procdate>Agosto,2014</procdate></procstep><procstep><procdesc>Se anexó a la base de datos el campo ID_07, colocándole un identificador único a cada una de las ANP, en base al "ACUERDO por el que se establecen nueve direcciones regionales de la Comisión Nacional de Áreas Naturales Protegidas", de fecha 20 de Julio de 2007. 
+Este identificador se utilizará como oficial para cada una de las ANP en la cobertura, está compuesto por cuatro dígitos, donde el primero corresponde a la Región, el segundo a la categoría por región y el tercero-cuarto digito al ANP conforme la lista de dicho Acuerdo, las ANP publicadas posterior a este se enlistaron al final en la categoría y región que le corresponde.
+Las ANP Islas del Golfo de California y C.A.D.N.R 043 Estado de Nayarit, abarcan según en el acuerdo del DOF dos regiones sin embargo para asignarle identificador se uso la primer región según la lista de dicho acuerdo.</procdesc><procdate>Agosto, 2014.</procdate></procstep><procstep><procdesc>Se cambiaron los polígonos de las Playas Tortugueras de acuerdo a los Planos Oficiales que se entregan certificados, con firmas y sellos correspondientes, según Memorándum No. SECG/040/2014 de fecha 29 de agosto de 2014.</procdesc><procdate>Diciembre,2014</procdate></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf><esriterm Name="176ANP_Geo_itrf92_version_diciembre_2014"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">176</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn Sync="TRUE">ITRF92</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">ITRF92 Mexico</geogcsn></cordsysn><geograph><geogunit Sync="TRUE">Decimal degrees</geogunit><latres Sync="TRUE">0.000000</latres><longres Sync="TRUE">0.000000</longres></geograph></horizsys>
+		<vertdef>
+			<altsys>
+				<altdatum>National Geodetic Vertical Datum of 1929</altdatum>
+				<altres>0.0</altres>
+				<altunits>meters</altunits>
+				<altenc>Attribute values</altenc>
+			</altsys>
+			<depthsys>
+				<depthdn>
+Local surface</depthdn>
+				<depthres>0.0</depthres>
+				<depthdu>meters</depthdu>
+				<depthem>Attribute values</depthem>
+			</depthsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="176ANP_Geo_itrf92_version_diciembre_2014">
+			<enttyp>
+				<enttypl Sync="TRUE">176ANP_Geo_itrf92_version_diciembre_2014</enttypl>
+				<enttypd>Áreas Naturales Protegidas</enttypd>
+				<enttypds>SEMARNAT</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">176</enttypc></enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrvai>
+				</attrvai>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">COUNT</attrlabl><attalias Sync="TRUE">COUNT</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">16</attwidth><attrdef>Contador</attrdef><attrdefs>SIG</attrdefs><atprecis Sync="TRUE">15</atprecis><attscale Sync="TRUE">6</attscale></attr><attr><attrlabl Sync="TRUE">ID_07</attrlabl><attalias Sync="TRUE">ID_07</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">16</attwidth><attrdef>Identificador del Área Natural Protegida</attrdef><attrdefs>DOF, 20 de Julio 2007. Artículo tercero.</attrdefs><atprecis Sync="TRUE">15</atprecis><attscale Sync="TRUE">6</attscale></attr><attr>
+				<attrlabl>NOMBRE</attrlabl>
+				<attrdef>Nombre que se le asigna a cada una de las ANP, según el Diario Oficial de la Federación</attrdef>
+				<attalias Sync="TRUE">NOMBRE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth><attrdefs>Diario Oficial de la Federación</attrdefs><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>CAT_DECRET</attrlabl>
+				<attrdef>Categoría de decreto según el DOF</attrdef>
+				<attrdefs>Diario Oficial de la Federación</attrdefs>
+				<attalias Sync="TRUE">CAT_DECRET</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>CAT_MANEJO</attrlabl>
+				<attrdef>Categoría que define al ANP por su vocación y características, de acuerdo a las modificaciones realizadas en la LGEEPA.</attrdef>
+				<attrdefs>Ley General del Equilibrio Ecológico y Protección al Ambiente, Título II, Cap1. / Diario Oficial de la Federación</attrdefs>
+				<attalias Sync="TRUE">CAT_MANEJO</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>ESTADOS</attrlabl>
+				<attrdef>Estados en donde se ubican las ANP</attrdef>
+				<attrdefs>INEGI</attrdefs>
+				<attrdomv>
+					<udom>Categoria de Manejo de las areas naturales protegidas</udom>
+				</attrdomv>
+				<attrvai>
+				</attrvai>
+				<attalias Sync="TRUE">ESTADOS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>MUNICIPIOS</attrlabl>
+				<attrdef>Municipios en donde se ubican las ANP</attrdef>
+				<attrdefs>INEGI</attrdefs>
+				<attalias Sync="TRUE">MUNICIPIOS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>REGION</attrlabl>
+				<attrdef>Regionalización de la CONANP.</attrdef>
+				<attrdefs>SIG-CONANP</attrdefs>
+				<attalias Sync="TRUE">REGION</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">SUPERFICIE</attrlabl><attalias Sync="TRUE">SUPERFICIE</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">16</attwidth><attrdef>Superficie total en hectáreas, decretada y calculada.</attrdef><attrdefs>CONANP</attrdefs><atprecis Sync="TRUE">15</atprecis><attscale Sync="TRUE">6</attscale></attr><attr><attrlabl Sync="TRUE">S_TERRES</attrlabl><attalias Sync="TRUE">S_TERRES</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">16</attwidth><attrdef>Superficie terrestre en hectáreas, decretada y calculada.</attrdef><attrdefs>CONANP</attrdefs><atprecis Sync="TRUE">15</atprecis><attscale Sync="TRUE">6</attscale></attr><attr><attrlabl Sync="TRUE">S_MARINA</attrlabl><attalias Sync="TRUE">S_MARINA</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">16</attwidth><attrdef>Superficie marina en hectáreas, decretada y calculada.</attrdef><attrdefs>CONANP</attrdefs><atprecis Sync="TRUE">15</atprecis><attscale Sync="TRUE">6</attscale></attr><attr><attrlabl Sync="TRUE">PRIM_DEC</attrlabl><attalias Sync="TRUE">PRIM_DEC</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth><attrdef>Fecha de la primera publicación en el DOF</attrdef><attrdefs>Diario Oficial de la Federación</attrdefs><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">ULT_DOF</attrlabl><attalias Sync="TRUE">ULT_DOF</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth><attrdef>Fecha de la última publicación en el DOF</attrdef><attrdefs>Diario Oficial de la Federación</attrdefs><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed>
+		<overview>
+			<eaover>Existen diferentes tipos de categorías decreto y de manejo para las áreas naturales protegidas, de acuerdo a la LGEEPA, Capítulo V Instrumentos de la Política Ecológica, Título segundo. Biodiversidad, Capítulo I. Áreas Naturales Protegidas, sección II. Tipos y caractéristcicas de las Áreas Naturales Protegidas. Última reforma publicada DOF 16-01-2014</eaover>
+			<eadetcit>ARTÍCULO 48.- Las reservas de la biosfera se constituirán en áreas biogeográficas relevantes a nivel nacional, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano o que requieran ser preservados y restaurados, en los cuales habiten especies representativas de la biodiversidad nacional, incluyendo a las consideradas endémicas, amenazadas o en peligro de extinción.</eadetcit><dsoverv>Esta cobertura representa las Áreas Naturales Protegidas Federales de la República Mexicana a diferentes escalas, y son extraídas de los decretos expresados en el Diario Oficial de la Federación.</dsoverv><eadetcit>ARTÍCULO 50.- Los parques nacionales se constituirán, tratándose de representaciones biogeográficas, a nivel nacional, de uno o más ecosistemas que se signifiquen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora y fauna, por su aptitud para el desarrollo del turismo, o bien por otras razones análogas de interés general.En los parques nacionales sólo podrá permitirse la realización de actividades relacionadas con la protección de sus recursos naturales, el incremento de su flora y fauna y en general, con la preservación de los ecosistemas y de sus elementos, así como con la investigación, recreación, turismo y educación ecológicos.</eadetcit><eadetcit>ARTÍCULO 52.- Los monumentos naturales se establecerán en áreas que contengan uno o varios elementos naturales, consistentes en lugares u objetos naturales, que por su carácter único o excepcional, interés estético, valor histórico o científico, se resuelva incorporar a un régimen de protección absoluta. Tales monumentos no tienen la variedad de ecosistemas ni la superficie necesaria para ser incluidos en otras categorías de manejo. 
+En los monumentos naturales únicamente podrá permitirse la realización de actividades relacionadas con su preservación, investigación científica, recreación y educación.</eadetcit><eadetcit>ARTÍCULO 53.- Las áreas de protección de recursos naturales, son aquellas destinadas a la preservación y protección del suelo, las cuencas hidrográficas, las aguas y en general los recursos naturales localizados en terrenos forestales de aptitud preferentemente forestal, siempre que dichas áreas no queden comprendidas en otra de las categorías previstas en el artículo 46 de esta Ley. 
+Se consideran dentro de esta categoría las reservas y zonas forestales, las zonas de protección de ríos, lagos, lagunas, manantiales y demás cuerpos considerados aguas nacionales, particularmente cuando éstos se destinen al abastecimiento de agua para el servicio de las poblaciones.
+En las áreas de protección de recursos naturales sólo podrán realizarse actividades relacionadas con
+la preservación, protección y aprovechamiento sustentable de los recursos naturales en ellas comprendidos, así como con la investigación, recreación, turismo y educación ecológica, de conformidad
+con lo que disponga el decreto que las establezca, el programa de manejo respectivo y las demás disposiciones jurídicas aplicables.</eadetcit><eadetcit>ARTÍCULO 54.- Las áreas de protección de la flora y la fauna se constituirán de conformidad con las disposiciones de esta Ley, de la Ley General de Vida Silvestre, la Ley de Pesca y demás aplicables, en los lugares que contienen los hábitat de cuyo equilibrio y preservación dependen la existencia, transformación y desarrollo de las especies de flora y fauna silvestres.
+En dichas áreas podrá permitirse la realización de actividades relacionadas con la preservación, repoblación, propagación, aclimatación, refugio, investigación y aprovechamiento sustentable de las especies mencionadas, así como las relativas a educación y difusión en la materia.
+Asimismo, podrá autorizarse el aprovechamiento de los recursos naturales a las comunidades que ahí habiten en el momento de la expedición de la declaratoria respectiva, o que resulte posible según los estudios que se realicen, el que deberá sujetarse a las normas oficiales mexicanas y usos del suelo que al efecto se establezcan en la propia declaratoria.</eadetcit><eadetcit>ARTÍCULO 55.- Los santuarios son aquellas áreas que se establecen en zonas caracterizadas por una considerable riqueza de flora o fauna, o por la presencia de especies, subespecies o hábitat de distribución restringida. Dichas áreas abarcarán cañadas, vegas, relictos, grutas, cavernas, cenotes, caletas, u otras unidades topográficas o geográficas que requieran ser preservadas o protegidas.
+En los santuarios sólo se permitirán actividades de investigación, recreación y educación ambiental, compatibles con la naturaleza y características del área.
+Las actividades de aprovechamiento no extractivo quedan restringidas a los programas de manejo, y normas oficiales mexicanas emitidas por la Secretaría.</eadetcit></overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>M. en Geog. Ignacio Paniagua Ruiz</cntper>
+					<cntorg>SEMARNAT-CONANP</cntorg>
+				</cntperp>
+				<cntpos>Subdirección Encargada de la Coordinación de Geomática</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<country>México</country>
+					<address>Av. Acueducto No. 980, Col. Chapultepec Norte</address><city>Morelia</city><state>Michoacán</state><postal>58260</postal></cntaddr>
+				<cntemail>ipaniagua@conanp.gob.mx</cntemail>
+				<hours>9:00 a 18:00 hrs.</hours>
+				<cntvoice>55 54497000 ext.18506</cntvoice></cntinfo>
+		</distrib>
+		<resdesc>El archivo que contiene esta información se encuentra en formato Shape.</resdesc>
+		<distliab>La CONANP se responsabiliza  de los contenidos
+originales de la información difundida. Cualquier uso o
+modificación de la misma es responsablididad del usuario.
+Todo uso de la información  requiere de la autorización de
+la Institución responsable y deberán citarse las fuentes
+originales.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ERDAS</formname>
+					<filedec>no compression applied</filedec>
+					<transize>3.310</transize>
+					<dssize Sync="TRUE">7.213</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+							</networka>
+						</computer>
+					</onlinopt>
+					<offoptn>
+						<reccap>
+						</reccap>
+					</offoptn>
+				</digtopt>
+			</digform>
+		</stdorder>
+		<custom>Para consultar algún tipo de información específico se
+sugiere hacer llegar la solicitud a la CONANP.</custom>
+		<techpreq>Para visualizar la información se recomienda el uso
+de Sistemas de Información Geográfica</techpreq>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>20070329</caldate>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20141203</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>M. en Geog. Ignacio Paniagua Ruiz</cntper>
+					<cntorg>CONANP</cntorg>
+				</cntperp>
+				<cntpos>Subdirección Encargada de la Coordinación de Geomática</cntpos>
+				<cntaddr>
+					<addrtype>physical address</addrtype>
+					<country>México</country>
+					<address>Av. Acueducto No. 980, Col. Chapultepec Norte</address><city>Morelia</city><state>Michoacán de Ocampo</state><postal>58260</postal></cntaddr>
+				<cntvoice>55 54497000 ext. 18506</cntvoice>
+				<cntemail>ipaniagua@conanp.gob.mx</cntemail>
+				<hours>9:00 a 18:00</hours>
+				<cntinst>De lunes a viernes.</cntinst>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>No existe restriccion en el uso de la información, sin
+embargo, deberá citarse como fuente a la CONANP.</metac>
+		<metuc>None</metuc>
+		<metsi>
+		</metsi>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">es</langmeta></metainfo>
+	<Esri><CreaDate>20150410</CreaDate><CreaTime>17233500</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20150406</SyncDate><SyncTime>11051300</SyncTime><ModDate>20150406</ModDate><ModTime>11051300</ModTime><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Dissolve" Date="20120521" Time="130310">Dissolve 174ANP_LAMBitrf92_MAY2012 D:\CONANP\anp\ANP_México\2012\174ANP_LAMBitrf92_MAY2012_Di.shp NOMBRE;CAT_DECRET;CAT_MANEJO;ULT_DECRET;ESTADOS;MUNICIPIOS;REGION;ID_ANP;SUPERFICIE;S_TERRES;S_MARINA # MULTI_PART DISSOLVE_LINES</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Dissolve" Date="20120530" Time="104909">Dissolve 174ANP_LAMBitrf92_MAY2012 D:\CONANP\anp\ANP_México\2012\174ANP_LAMBitrf92_MAY_prel.shp NOMBRE;CAT_DECRET;CAT_MANEJO;ULT_DECRET;ESTADOS;MUNICIPIOS;REGION;ID_ANP;SUPERFICIE;S_TERRES;S_MARINA # MULTI_PART DISSOLVE_LINES</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Analysis Tools.tbx\Erase" Date="20120605" Time="123830">Erase 174ANP_LAMBitrf92_JUN2012_mal oyo D:\CONANP\anp\ANP_México\2012\174ANP_LAMBitrf9.shp "0.0001 Meters"</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Dissolve" Date="20120605" Time="130857">Dissolve 174ANP_LAMBitrf9 D:\CONANP\anp\ANP_México\2012\174ANP_LAMBitrf9_Jun2012pre.shp OBJECTID;NOMBRE;CAT_DECRET;CAT_MANEJO;ULT_DECRET;ESTADOS;MUNICIPIOS;REGION;ID_ANP;SUPERFICIE;S_TERRES;S_MARINA # MULTI_PART DISSOLVE_LINES</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Dissolve" Date="20130109" Time="164601">Dissolve 175ANP_LAMBitrf9_version_Ene2013 D:\CONANP\anp\ANP_México\2013\176ANP_LAMBitrf92_version_Ene2013.shp NOMBRE;CAT_DECRET;CAT_MANEJO;ULT_DECRET;ESTADOS;MUNICIPIOS;REGION;ID_ANP;SUPERFICIE;S_TERRES;S_MARINA # MULTI_PART DISSOLVE_LINES</Process><Process ToolSource="c:\program files\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20140805" Time="140024">CalculateField 176ANP_LAMBitrf92_version_agosto_2014 REGION "Planicie Costera y Golfo de México" VB #</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project" Date="20140904" Time="122437">Project 176ANP_geo_itrf92_version_septiembre_2014 "E:\Lilián\Final ANP\Final Septiembre\176ANP_Lambert_itrf92_version_se.shp" PROJCS['Conica Conforme de Lamabert',GEOGCS['ITRF92',DATUM['D_GRS_1980',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Lambert_Conformal_Conic'],PARAMETER['False_Easting',2500000.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-102.0],PARAMETER['Standard_Parallel_1',17.5],PARAMETER['Standard_Parallel_2',29.5],PARAMETER['Scale_Factor',1.0],PARAMETER['Latitude_Of_Origin',12.0],UNIT['Meter',1.0]] # GEOGCS['ITRF92 Mexico',DATUM['ITRF92',SPHEROID['GRS_1980',6378137.0,298.2572221010041]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]]</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project" Date="20141106" Time="125433">Project 176ANP_Lambert_itrf92_version_septiembre_2014 I:\poligono_anps\anps_septiembre\176ANP_Geo_itrf92_version_septiembre_2014.shp GEOGCS['ITRF92 Mexico',DATUM['ITRF92',SPHEROID['GRS_1980',6378137.0,298.2572221010041]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] # PROJCS['Conica Conforme de Lamabert',GEOGCS['ITRF92',DATUM['D_GRS_1980',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Lambert_Conformal_Conic'],PARAMETER['False_Easting',2500000.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-102.0],PARAMETER['Standard_Parallel_1',17.5],PARAMETER['Standard_Parallel_2',29.5],PARAMETER['Scale_Factor',1.0],PARAMETER['Latitude_Of_Origin',12.0],UNIT['Meter',1.0]]</Process></lineage><itemProps><itemLocation><linkage Sync="TRUE">file://\\14APCB1162\D$\Carpeta trabajo Karla\shapes SIG CONANP\ANP_2014\Versión Dic14\176ANP_Geo_itrf92_version_diciembre_2014.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation><itemName Sync="TRUE">176ANP_Geo_itrf92_version_diciembre_2014</itemName><imsContentType Sync="TRUE">002</imsContentType><nativeExtBox><westBL Sync="TRUE">-118.634376</westBL><eastBL Sync="TRUE">-86.652318</eastBL><southBL Sync="TRUE">14.790474</southBL><northBL Sync="TRUE">32.368832</northBL><exTypeCode Sync="TRUE">1</exTypeCode></nativeExtBox><itemSize Sync="TRUE">7.213</itemSize></itemProps><copyHistory><copy source="D:\Coberturas\2014\Noviembre\176ANP_Geo_itrf92_version_noviembre_2014" dest="\\GISSELA-PC\D$\Coberturas\2014\Noviembre\176ANP_Geo_itrf92_version_noviembre_2014Copy" date="20141202" time="13383200"></copy></copyHistory><coordRef><type Sync="TRUE">Geographic</type><geogcsn Sync="TRUE">ITRF92 Mexico</geogcsn><csUnits Sync="TRUE">Angular Unit: Degree (0.017453)</csUnits><peXml Sync="TRUE">&lt;GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&gt;&lt;WKT&gt;GEOGCS[&amp;quot;ITRF92 Mexico&amp;quot;,DATUM[&amp;quot;ITRF92&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.2572221010041]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]]&lt;/WKT&gt;&lt;XOrigin&gt;-400&lt;/XOrigin&gt;&lt;YOrigin&gt;-400&lt;/YOrigin&gt;&lt;XYScale&gt;11258999068426.238&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;8.9831528411952133e-009&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;/GeographicCoordinateSystem&gt;</peXml></coordRef></DataProperties><ArcGISFormat>1.0</ArcGISFormat><ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle></Esri><dataIdInfo><envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.1.0.3035</envirDesc><dataLang><languageCode Sync="TRUE" value="spa"></languageCode><countryCode value="MEX" Sync="TRUE"></countryCode></dataLang><idCitation><resTitle Sync="TRUE">176ANP_Geo_itrf92_version_diciembre_2014</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-118.634376</westBL><eastBL Sync="TRUE">-86.652318</eastBL><northBL Sync="TRUE">32.368832</northBL><southBL Sync="TRUE">14.790474</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-118.634376</westBL><eastBL Sync="TRUE">-86.652318</eastBL><northBL Sync="TRUE">32.368832</northBL><southBL Sync="TRUE">14.790474</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox><dataExt><geoEle><GeoBndBox esriExtentType="search"><exTypeCode Sync="TRUE">1</exTypeCode><westBL Sync="TRUE">-118.634376</westBL><eastBL Sync="TRUE">-86.652318</eastBL><northBL Sync="TRUE">32.368832</northBL><southBL Sync="TRUE">14.790474</southBL></GeoBndBox></geoEle></dataExt></dataIdInfo><mdLang><languageCode Sync="TRUE" value="spa"></languageCode><countryCode value="MEX" Sync="TRUE"></countryCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="006"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\ESTEBAN\E$\LILIAN DICIEMBRE\176ANP_Geo_itrf92_version_diciembre_2014.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">7.213</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor><distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">7.213</transSize></distTranOps></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE" value="0">ITRF92 Mexico</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><geometObjs Name="176ANP_Geo_itrf92_version_diciembre_2014"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">176</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20150406</mdDateSt></metadata>
